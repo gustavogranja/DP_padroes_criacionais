@@ -28,7 +28,7 @@ class NotaFiscal
         $this->dataEmissao = new \DateTimeImmutable();
     }
 
-    
+
 //    public function clonar(): NotaFiscal
 //    {
 //        $cloneNotaFiscal = new NotaFiscal();
